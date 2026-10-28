@@ -1,2 +1,2 @@
-# Developers-lose-context-every-time-they-switch-between-AI-coding-assistants.
-A tool that helps developers preserve, organize, and transfer project context between different AI coding assistants, reducing repeated explanations and improving productivity.
+Students can't easily turn their own notes into flashcards or quizzes.
+An AI-powered solution that transforms students’ study notes into flashcards and interactive quizzes, making exam preparation faster, easier, and more effective.
